@@ -1,3 +1,7 @@
+# Convolutional Deep Neural Network for Image Classification
+## AIM
+To develop a convolutional deep neural network for image classification and to verify the response for new images.
+
 ## Problem Statement and Dataset
 
 Handwritten digit recognition is a fundamental problem in computer vision with applications in postal mail sorting, bank check processing, and digital form recognition.
@@ -10,7 +14,8 @@ Each image is grayscale, size 28 × 28 pixels, representing digits 0–9.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+<img width="1280" height="551" alt="image" src="https://github.com/user-attachments/assets/8105ff81-a799-4d56-8634-a254323d8301" />
+
 
 ## DESIGN STEPS
 
